@@ -1,4 +1,4 @@
-O programa que você criou é um "Detector de Autorun" que monitora dispositivos removíveis (como pendrives) conectados ao computador. Quando um novo dispositivo é detectado, ele procura por arquivos chamados "autorun.inf", que são frequentemente usados por vírus para executar automaticamente programas maliciosos.
+O Detector de Autorun monitora dispositivos removíveis (como pendrives) conectados ao computador. Quando um novo dispositivo é detectado, ele procura por arquivos chamados "autorun.inf", que são frequentemente usados por vírus para executar automaticamente programas maliciosos.
 
 ### Objetivo:
 
